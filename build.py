@@ -579,6 +579,7 @@ if __name__ == '__main__':
                         type=str,
                         help='Timeout for tests before failing')
     main_args = parser.parse_args()
+    print(main_args)
     print_banner()
     sys.exit(main(main_args))
 
