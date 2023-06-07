@@ -7,7 +7,7 @@ on:
       - 'config/**'
       - 'docker/**'
       - 'docs/**'
-      - 'images/**'
+      - '2023_06_07_1/**'
       - 'scripts/**'
       - 'tests/**'
       - '**.md'
